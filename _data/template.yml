@@ -4,10 +4,6 @@ color:
   secondary: fec503   
   secondary-dark: 333
   muted: 777
-
-site:
-  title: Even Testen
-  baseurl: yunikonbv.github.io/website
   
 # Font Families
 font:
